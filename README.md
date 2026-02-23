@@ -1,5 +1,12 @@
 # auto-link-service-14
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/auto-link-service-14/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/auto-link-service-14/actions)
+![License](https://img.shields.io/github/license/yksanjo/auto-link-service-14)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/auto-link-service-14)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/auto-link-service-14)
+
 ## Detailed Description
 
 auto-link-service-14 is maintained as an industry-grade software project with production-ready engineering practices.  
